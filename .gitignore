@@ -3,3 +3,4 @@ backend/node_modules
 *.ini
 backend/.env
 frontend/.env
+README.md
